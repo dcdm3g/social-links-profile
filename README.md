@@ -18,11 +18,12 @@ This script uses Tailwind CLI to generate a minified CSS file from the used clas
 
 > Make sure you have Git or GitHub CLI and Bun installed before continue. See [how to install Bun](https://bun.sh/docs/installation) and [how to install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you need to.
 
-First, clone this repository and go to the created folder:
+First, clone this repository, go to the created folder and install the dependencies:
 
 ```sh
 git clone https://github.com/dcdm3g/social-links-profile
 cd social-links-profile
+bun install
 ```
 
 Then, you can run the development command:
