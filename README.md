@@ -32,7 +32,7 @@ Then, you can run the development command:
 bun dev
 ```
 
-This command start the Tailwind CLI in watch mode, so you can edit HTML classes and a new CSS file will be generated automatically.
+This command start the Tailwind CLI in watch mode, so you can edit the HTML classes and a new CSS file will be generated automatically.
 
 You can also build the website for production using the build command:
 
