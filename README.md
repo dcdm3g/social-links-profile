@@ -20,7 +20,7 @@ Honestly, I built this just to satisfy my desire to test Tailwind CLI and Bun to
 
 ## Run Yourself
 
-> Make sure you have Git or GitHub CLI and Bun installed before continue. See [how to install Bun](https://bun.sh/docs/installation) and [how to install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you need to.
+> Make sure you have Git (or GitHub CLI) and Bun installed before continue. See [how to install Bun](https://bun.sh/docs/installation) and [how to install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you need to.
 
 First, clone this repository, go to the created folder and install the dependencies:
 
