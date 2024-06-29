@@ -1,7 +1,7 @@
-import { Config } from 'tailwindcss'
+import type { Config } from 'tailwindcss'
 
 export default {
-  content: ['public/index.html'],
+  content: ['src/index.html'],
   theme: {
     colors: {
       black: '#141414',
