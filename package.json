@@ -1,0 +1,12 @@
+{
+  "name": "social-links-profile",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tailwindcss -i styles/input.css -o styles/output.css --watch",
+    "build": "tailwindcss -i styles/input.css -o styles/output.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
