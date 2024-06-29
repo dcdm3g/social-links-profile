@@ -1,7 +1,7 @@
 import { Config } from 'tailwindcss'
 
 export default {
-  content: ['index.html'],
+  content: ['public/index.html'],
   theme: {
     colors: {
       black: '#141414',
