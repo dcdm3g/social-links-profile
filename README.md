@@ -23,7 +23,7 @@ First, clone this repository, go to the created folder and install the dependenc
 ```sh
 git clone https://github.com/dcdm3g/social-links-profile
 cd social-links-profile
-bun install
+bun i
 ```
 
 Then, you can run the development command:
