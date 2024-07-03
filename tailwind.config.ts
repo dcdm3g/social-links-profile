@@ -1,4 +1,5 @@
 import type { Config } from 'tailwindcss'
+import defaultTheme from 'tailwindcss/defaultTheme'
 
 export default {
   content: ['src/index.html'],
@@ -9,6 +10,9 @@ export default {
       white: '#FFFFFF',
       'dark-gray': '#1F1F1F',
       'neon-green': '#C4F82A',
+    },
+    fontFamily: {
+      sans: ['"Inter"', ...defaultTheme.fontFamily.sans],
     },
     extend: {
       width: {
